@@ -1,4 +1,4 @@
-## <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="25"> Hi there!
+## <img src="https://user-images.githubusercontent.com/20827126/152252422-0a146d0f-a4b2-46c6-ac38-4581e05f954e.gif" width="25"> Hi there!
 <!-- 👋 -->
 ### Você pode me chamar de Davi Fernandes :v:
 ---
