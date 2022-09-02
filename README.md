@@ -6,9 +6,9 @@
 &nbsp;  
 > <strong>🧠 - Sou um admirador da Tecnologia e atualmente envolvido nos assuntos de Desenvolvimento Web.</strong>
 &nbsp;  
-> <strong>🎵 - Musicista; admirador de coisas novas e diferentes; conhecer, aprender e ajudar</strong> 
+> <strong>🎵 - Musicista; admirador de coisas novas e diferentes</strong> 
 &nbsp;  
-> <strong>🌎 - Maranhão / Paraná - Disposto a conhecer novos lugares</strong>
+> <strong>🌎 - Conhecer, aprender e ajudar</strong>
 ---
 <!-- [comment]: # ![Minhas estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=daviafer&show_icons=true&theme=radical) -->
 
